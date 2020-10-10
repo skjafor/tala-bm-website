@@ -1,0 +1,52 @@
+#heading-1{
+    background-color: rosybrown;
+    .clr{
+        clear: both;
+    }
+}
+#last-bar{
+    background-color: slategray;
+    color: white;
+}
+#news-continue{
+    background-color: darkseagreen;
+}
+#input{
+    padding: 10px;
+}
+.block{
+  float: left;  
+    width: 33.3%;
+    border:1px solid black;height: 560px;
+    padding: 1px;
+box-sizing:border-box;
+}
+.external-link{
+    float: left;  
+    width: 33.3%;
+    padding: 1px;
+    background-color: yellowgreen;
+    box-sizing:border-box;
+}  
+.footer{
+    float: left;
+    width:50%;
+   color: white;
+   background-color: rgb(99, 81, 99);
+box-sizing: border-box;
+} 
+.my-form{
+    padding:10px;
+}
+.input-group{
+    padding-bottom: 20px;
+}
+.input-group input[type="text"]{
+padding: 8p;
+}
+.img{
+    float: left;
+    width: 49%;
+    box-sizing: border-box;
+}
+
